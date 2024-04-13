@@ -1,0 +1,10 @@
+.bcg-images {
+    background-image: url("../images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;  
+    margin: 0;
+    padding: 0;
+  }
